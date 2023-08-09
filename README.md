@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuhammadHuzaifa1
-- 👀 I’m interested in Blockchain AI and Game DEV
+- 👀 I’m interested in Blockchain AI and AUTOMATION
 - 🌱 I’m currently learning ... Pyhton C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... huzaifath99@gmail.com
