@@ -1,10 +1,60 @@
-- 👋 Hi, I’m @MuhammadHuzaifa1
-- 👀 I’m interested in Blockchain AI and AUTOMATION
-- 🌱 I’m currently learning ... Pyhton C# C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... huzaifath99@gmail.com ,bc210410081mhu@vu.edu.pk
+Hi, I'm Muhammad Huzaifa 👋
 
-<!---
-MuhammadHuzaifa1/MuhammadHuzaifa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science Graduate
+🤖 Aspiring Artificial Intelligence & Machine Learning Engineer
+
+I'm currently building my foundations in Artificial Intelligence, Machine Learning, Data Science and Generative AI.
+
+My interests include:
+
+Machine Learning
+
+Artificial Intelligence
+
+Generative AI and LLMs
+
+Python programming
+
+Data Science
+
+AI-powered applications
+
+🌱 Currently Learning
+
+Python
+
+NumPy and Pandas
+
+Machine Learning with Scikit-learn
+
+Statistics and Mathematics for AI
+
+Generative AI
+
+PyTorch
+
+🛠️ Technologies
+
+Languages: Python
+
+Data: NumPy, Pandas
+
+Machine Learning: Scikit-learn
+
+Tools: Git, GitHub, Jupyter Notebook, VS Code
+
+🚀 Projects
+
+Projects will be added as I progress through my AI learning journey.
+
+🎓 Education
+
+Bachelor of Science in Computer Science
+
+Upcoming postgraduate studies in Artificial Intelligence.
+
+🔗 Connect with me
+
+LinkedIn: https://www.linkedin.com/in/muhammad-huzaifa-937547205/
+
+GitHub: https://github.com/MuhammadHuzaifa1
